@@ -80,7 +80,12 @@ body {
 
 .col-md-8 {
     margin-left: 5%;
-    max-width: 80%;
+    max-width: 90%;
+}
+
+.col-md-9 {
+    max-width: 98%;
+    margin-left: 5% ;
 }
 
 #projectDetails {
@@ -89,14 +94,15 @@ body {
     font-weight: 400;
 }
 
-#weatherDetails {
+#youtwitchDetails {
     color: rgb(61, 56, 56);
     font-weight: 400;
 }
 
-#quizDetails {
+#noteDetails {
     color: rgb(51, 48, 48);
     font-weight: 400;
+    margin: 4px;;
 }
 
 #contactForm {
