@@ -1,5 +1,7 @@
 # Responsive_portfolio
 
+Deployed site: https://fkibria.github.io/Responsive_portfolio/
+
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
 
@@ -21,13 +23,6 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
 
-### Hints
-
-* Use Bootstrap's grid system (containers, rows, and columns).
-
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
-
-* Use an HTML validation service to ensure that each page has valid HTML.
 
 ### Minimum Requirements
 
@@ -47,10 +42,15 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
+* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+
+* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+
+* Submit an updated resume
+
+* Submit an updated LinkedIn profile
+
 * Must properly utilize Bootstrap components and grid system.
 
 
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
 
